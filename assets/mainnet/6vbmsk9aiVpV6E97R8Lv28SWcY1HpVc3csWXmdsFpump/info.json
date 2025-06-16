@@ -1,0 +1,13 @@
+{
+  "name": "CENTS",
+  "symbol": "CENTS",
+  "address": "6vbmsk9aiVpV6E97R8Lv28SWcY1HpVc3csWXmdsFpump",
+  "decimals": 6,
+  "chainId": 101,
+  "logoURI": "https://raw.githubusercontent.com/Plasatu/token-list/assets/mainnet/6vbmsk9aiVpV6E97R8Lv28SWcY1HpVc3csWXmdsFpump/logo.png",
+  "tags": ["community", "meme"],
+  "extensions": {
+    "twitter": "https://x.com/ThisIsCents",
+    "description": "CENTS is a meme token with powerful community support, aiming to bring real value out of pure fun."
+  }
+}
